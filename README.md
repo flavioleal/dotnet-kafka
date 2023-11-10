@@ -13,8 +13,8 @@ Este é um exemplo de projeto utilizando .NET 7 e Kafka, integrando-se com o Con
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/flavioleal/dotnet-kafka.git
+cd dotnet-kafka
 ```
 1. Execute o Docker Compose para o ambiente Kafka:
 ```
